@@ -1,7 +1,7 @@
   #include <SoftwareSerial.h>
   SoftwareSerial bt(0, 1); 
-  // Rx do modulo BT no pino 0
-  // Tx do modulo BT no pino 1
+  // Rx do modulo BT no pino 1
+  // Tx do modulo BT no pino 0
 
   int ch1 = 2;
   int ch2 = 3;
